@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<body>
+    <style>
+        header{ 
+        text-align: center;
+        box-sizing: border-box;
+        border: 3px rgb(102, 105, 205) solid;
+        width:180px;
+        clear: both;
+        min-height: 150px;
+        display:inline-block;
+        margin: 5px 10px;
+        }
+        nav{
+        text-align: center;
+        box-sizing: border-box;
+        border: 3px rgb(102, 105, 205) solid;
+        width:370px;
+        clear: both;
+        min-height: 120px;
+        display:inline-block;
+        margin: 5px;
+        background-color: rgb(179, 191, 248);
+        }
+        body{
+        width:600px;
+        display: block;
+        margin: 1rem 1rem;
+        box-sizing: border-box;
+        border: 3px rgb(102, 105, 205) solid;
+        
+        }
+        article{
+        text-align: center;
+        box-sizing: border-box;
+        border: 3px rgb(102, 105, 205) solid;
+        width:570px;
+        clear: both;
+        min-height: 50px;
+        margin: 5px 10px;
+        background-color: rgb(103, 122, 205);
+        }
+        section{
+        text-align: center;
+        box-sizing: border-box;
+        border: 3px rgb(102, 105, 205) solid;
+        width:540px;
+        clear: both;
+        min-height: 70px;
+        margin: 10px;
+        background-color: rgb(179, 191, 248);
+        }
+    </style>
+    <header><img src="logo.jpg" alt="">
+    </header>
+    <nav>
+        <p><b><a href="https://en.wikipedia.org/wiki/Ferrero_Rocher" target="_blank">Ferrero Rochet</a></b></p>
+        <p><b><a href="https://en.wikipedia.org/wiki/She%27s_Dating_the_Gangster" target="_blank">Shes Dating the Gangster</a></b></p>
+        <p><b><a href="https://www.wattpad.com/" target="_blank">Wattpad</a></b></p>
+        <p><b><a href="" target="_blank">Reference</a></b></p>
+    </nav>
+    <article><center><h1>Here are my Favorite Things</h1>
+        <section>
+            <h1>Ferrero Rocher </h1>
+            <p>Ferrero Rocher (Italian pronunciation: [ferˈrɛːro roʃˈʃe]) is a chocolate and hazelnut confection, introduced in 1979 and produced by the Italian company Ferrero. Michele Ferrero is credited as the product's creator.
+            Each Ferrero Rocher ball is covered in foil and placed into a paper liner. The confection is machine made and much of its production process is designed to be secretive.
+            It is sold worldwide and holds a strong cultural presence, in part because of its association with Christmas. The brand is known in the United Kingdom by the popular 1990s 'ambassadors' advertisement.</p>
+        </section>
+        <section><h1>She's Dating the Gangster </h1>
+            <p>Love is all a matter of timing. 
+            At least, that's what She's Dating the Gangster wants us to believe. 
+            Amidst the melodramatic platitudes and cued teardrops, there's still an unmistakable amount of truth in the sentiment.
+             One of the greatest love stories, Romeo and Juliet, was a matter of timing.</p>
+            </section>
+        <section><h1>Wattpad</h1>
+            <p>Wattpad is an online social reading platform intended for users
+             to read and write original stories. Founded by Allen Lau and Ivan Yuen, 
+             the platform aims to create social communities around stories and remove the barriers between readers and writers. </p>
+            </section>
+    </center></article>
+</body>
+
+</html>
