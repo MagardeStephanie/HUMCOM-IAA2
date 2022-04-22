@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+[class*="col-"] {
+  float: left;
+  padding: 15px;
+}
+
+html {
+  font-family: "Lucida Sans", sans-serif;
+}
+
+.header {
+  background-color: gray;
+  color: white;
+  padding: 15px;
+  margin-bottom: 7px;
+}
+.header{
+  background-color: gray;
+  color: white;
+  padding: 15px;
+  margin-bottom: 7px;
+}
+.article{
+  background-color: rgb(78, 76, 76);
+  color: white;
+  padding: 15px;
+  margin-bottom: 7px;
+}
+.header{
+  background-color: gray;
+  color: white;
+  padding: 15px;
+  margin-bottom: 7px;
+}
+.header{
+    background-color: gray;
+    color: white;
+    padding: 15px;
+    margin-bottom: 7px; 
+}
+.header{
+    background-color: gray;
+    color: white;
+    padding: 15px;
+    margin-bottom: 7px; 
+}
+.footer {
+  background-color: gray;
+  color: #ffffff;
+  text-align: center;
+  padding: 15px;
+}
+
+
+</style>
+</head>
+<body>
+
+<div class="header">
+  <h6>header</h6>
+</div>
+<div class="header">
+  <h6></h6>header1</h6>
+</div>
+<div class="article">
+  <h6>article</h6>
+</div>
+<div class="header">
+  <h1>header2</h1>
+</div>
+<div class="header">
+  <h1>header3</h1>
+</div>
+<div class="header">
+  <h1>header4</h1> 
+</div>
+<div class="footer">
+  <h8></h8>Footer</h8>
+</div>
+
+</body>
+</html>
